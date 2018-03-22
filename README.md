@@ -5,18 +5,18 @@
 * **CSS** (Cascading Style Sheets).
 * **Javascript** (JavaScript Object Notation).
 
-#### DOM
+### DOM
 Document Object Model.
 
 📌[Reference](https://dom.spec.whatwg.org/)
 
 
-#### Web APIs
+### Web APIs
 TML5 and friends or Browser APIs.
 
 📌[Reference](https://developer.mozilla.org/en-US/docs/Web/API)
 
-#### WebAssembly
+### WebAssembly
 WebAssembly has huge implications for the web platform.
 
 📌[Reference](http://webassembly.org/)
