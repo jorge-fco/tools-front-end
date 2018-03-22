@@ -8,20 +8,20 @@
 #### DOM
 Document Object Model.
 
-[Reference](https://dom.spec.whatwg.org/)
+📌[Reference](https://dom.spec.whatwg.org/)
 
 
 #### Web APIs
 TML5 and friends or Browser APIs.
 
-[Reference](https://developer.mozilla.org/en-US/docs/Web/API)
+📌[Reference](https://developer.mozilla.org/en-US/docs/Web/API)
 
 #### WebAssembly
 WebAssembly has huge implications for the web platform.
 
-[Reference](http://webassembly.org/)
+📌[Reference](http://webassembly.org/)
 
-[Reference](https://developer.mozilla.org/en-US/docs/WebAssembly)
+📌[Reference](https://developer.mozilla.org/en-US/docs/WebAssembly)
 
 ## 
 * jQuery
@@ -33,8 +33,10 @@ WebAssembly has huge implications for the web platform.
 * Webpack
 
 ## Name Skills
+* CSS Layout / Grids
 * CSS Animation
 * HTML Semantics
+* JavaScript Animation
 * Responsive Web Design
 * Single Page Applications
 * User Experience
