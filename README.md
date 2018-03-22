@@ -16,6 +16,13 @@ TML5 and friends or Browser APIs.
 
 [Reference](https://developer.mozilla.org/en-US/docs/Web/API)
 
+#### WebAssembly
+WebAssembly has huge implications for the web platform.
+
+[Reference](http://webassembly.org/)
+
+[Reference](https://developer.mozilla.org/en-US/docs/WebAssembly)
+
 ## 
 * jQuery
 * TweenMax
