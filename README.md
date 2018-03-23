@@ -24,11 +24,13 @@ WebAssembly has huge implications for the web platform.
 📌[Reference](https://developer.mozilla.org/en-US/docs/WebAssembly)
 
 ###
+* CSS frameworks (e.g. Bootstrap, Foundation, Pure, Skeleton)
+* Web fonts
+* Semantic markup
+* HTML standards
 * Classes and IDs
 * CSS methodologies
 * Flexbox
-*
-*
 * Responsive design, media queries, and breakpoints
 
 ## 
