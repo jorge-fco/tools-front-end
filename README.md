@@ -23,6 +23,14 @@ WebAssembly has huge implications for the web platform.
 
 📌[Reference](https://developer.mozilla.org/en-US/docs/WebAssembly)
 
+###
+* Classes and IDs
+* CSS methodologies
+* Flexbox
+*
+*
+* Responsive design, media queries, and breakpoints
+
 ## 
 * jQuery
 * TweenMax
