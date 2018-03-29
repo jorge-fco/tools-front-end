@@ -5,25 +5,25 @@
 * **CSS** (Cascading Style Sheets).
 * **Javascript** (JavaScript Object Notation).
 
-### DOM
+#### DOM
 Document Object Model.
 
 📌[Reference](https://dom.spec.whatwg.org/)
 
 
-### Web APIs
+#### Web APIs
 TML5 and friends or Browser APIs.
 
 📌[Reference](https://developer.mozilla.org/en-US/docs/Web/API)
 
-### WebAssembly
+#### WebAssembly
 WebAssembly has huge implications for the web platform.
 
 📌[Reference](http://webassembly.org/)
 
 📌[Reference](https://developer.mozilla.org/en-US/docs/WebAssembly)
 
-###
+## Views
 * CSS frameworks (e.g. Bootstrap, Foundation, Pure, Skeleton)
 * Web fonts
 * Semantic markup
@@ -33,11 +33,11 @@ WebAssembly has huge implications for the web platform.
 * Flexbox
 * Responsive design, media queries, and breakpoints
 
-## 
+## Library
 * jQuery
 * TweenMax
 
-## 
+## Tools
 * yarn
 * Bower
 * Webpack
