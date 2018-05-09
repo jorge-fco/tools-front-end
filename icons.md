@@ -1,29 +1,29 @@
 # Icons
 
-### Font Awesome
+## Font Awesome
 📚[Website](/fontawesome.com)
 
 📎 [Github](https://github.com/FortAwesome/Font-Awesome)
 
-### Typicons
+## Typicons
 📚 [Website](http://s-ings.com/typicons/)
 
 📎 [Github](https://github.com/stephenhutchings/typicons.font)
 
-### Entypo+
+## Entypo+
 📚 [Website](http://www.entypo.com/)
 
 📎 [Github](https://github.com/danielbruce/entypo)
 
-### Feather
+## Feather
 📚 [Website](https://feathericons.com/)
 
 📎 [Github](https://github.com/feathericons/feather)
 
-### Linecons
+## Linecons
 📚 [Website](http://fontello.github.io/linecons.font/demo.html)
 
 📎 [Github](https://github.com/fontello/linecons.font)
 
-### Hawcons
+## Hawcons
 📚 [Website](http://hawcons.com/)
