@@ -11,3 +11,7 @@
 ### Feather
 [Website](https://feathericons.com/)
 [Github](https://github.com/feathericons/feather)
+
+### Linecons
+[Website](http://fontello.github.io/linecons.font/demo.html)
+[Github](https://github.com/fontello/linecons.font)
