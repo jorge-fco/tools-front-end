@@ -7,3 +7,7 @@
 ### Entypo+
 [Website](http://www.entypo.com/)
 [Github](https://github.com/danielbruce/entypo)
+
+### Feather
+[Website](https://feathericons.com/)
+[Github](https://github.com/feathericons/feather)
