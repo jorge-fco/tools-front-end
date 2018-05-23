@@ -5,6 +5,11 @@
 
 📎 [Github](https://github.com/FortAwesome/Font-Awesome)
 
+## Material Design Icons
+📚 [Website](https://material.io/tools/icons/)
+
+📎 [Github](https://google.github.io/material-design-icons/)
+
 ## Typicons
 📚 [Website](http://s-ings.com/typicons/)
 
