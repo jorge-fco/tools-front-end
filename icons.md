@@ -38,3 +38,14 @@
 📚 [Website](https://www.zondicons.com/)
 
 📎 [Github](https://github.com/sschoger/zondicons)
+
+## Heroicons ui
+📎 [Github](https://github.com/sschoger/heroicons-ui)
+
+
+
+
+
+
+
+
