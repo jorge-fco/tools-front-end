@@ -39,6 +39,11 @@
 
 📎 [Github](https://github.com/sschoger/zondicons)
 
+## Heroicons
+📚 [Website](https://www.heroicons.com/)
+
+📎 [Github](https://github.com/sschoger/heroicons)
+
 ## Heroicons ui
 📎 [Github](https://github.com/sschoger/heroicons-ui)
 
