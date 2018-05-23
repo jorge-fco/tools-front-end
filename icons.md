@@ -32,3 +32,9 @@
 
 ## Hawcons
 📚 [Website](http://hawcons.com/)
+
+
+## Zondicons
+📚 [Website](https://www.zondicons.com/)
+
+📎 [Github](https://github.com/sschoger/zondicons)
