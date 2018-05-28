@@ -1,4 +1,4 @@
 # Modules Javascript
 - CommonJS
-- AMD
+- AMD (Asynchronous Module Definition)
 - UMD
