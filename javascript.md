@@ -1,5 +1,7 @@
 # Modules Javascript
 - ES2015
-- CommonJS
+- CommonJS Modules
 - AMD (Asynchronous Module Definition)
-- UMD
+-The Module pattern
+- Object literal notation
+- ECMAScript Harmony modules
