@@ -2,6 +2,6 @@
 - ES2015
 - CommonJS Modules
 - AMD (Asynchronous Module Definition)
--The Module pattern
+- The Module pattern
 - Object literal notation
 - ECMAScript Harmony modules
