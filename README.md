@@ -71,6 +71,9 @@ The generic job title that describes a developer who is skilled to some degree a
 #### CSS/HTML Developer
 The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and Application know how.
 
-### Front-End SEO Expert
+#### Front-End SEO Expert
 When the word "SEO" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies towards an SEO strategy.
+
+#### Front-End Testing/QA
+When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
 
