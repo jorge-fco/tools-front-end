@@ -5,3 +5,9 @@
 - The Module pattern
 - Object literal notation
 - ECMAScript Harmony modules
+
+# Frameworks & Libraries
+- React
+- Angular
+- Vue.js
+- Polymer
