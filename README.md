@@ -77,3 +77,6 @@ When the word "SEO" is included in the job title, this will denote that the deve
 #### Front-End Testing/QA
 When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
 
+#### Mobile/Tablet Front-End Developer
+When the word "Mobile" or "Tablet" is included in the job title, this will denote that the developer has experience developing front-ends that run on mobile or tablet devices (either natively or on the web platform, i.e., in a browser).
+
