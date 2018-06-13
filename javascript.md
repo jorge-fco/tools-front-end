@@ -11,3 +11,5 @@
 - Angular
 - Vue.js
 - Polymer
+- Ember
+- Backbone
