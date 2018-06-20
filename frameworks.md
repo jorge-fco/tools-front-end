@@ -13,9 +13,6 @@ https://jenil.github.io/chota/
 - [Kube CSS](https://imperavi.com/kube/)
 - [Milligram CSS](https://milligram.io/)
 - [Bourbon](https://www.bourbon.io/)
-
-https://picturepan2.github.io/spectre/
-
-https://purecss.io/
-
-http://potatocss.com/
+- [Spectre](https://picturepan2.github.io/spectre/)
+- [Purecss](https://purecss.io/
+- [Potatocss](http://potatocss.com/)
