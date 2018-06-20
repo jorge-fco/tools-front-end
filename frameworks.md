@@ -14,5 +14,5 @@ https://jenil.github.io/chota/
 - [Milligram CSS](https://milligram.io/)
 - [Bourbon](https://www.bourbon.io/)
 - [Spectre](https://picturepan2.github.io/spectre/)
-- [Purecss](https://purecss.io/
+- [Purecss](https://purecss.io/)
 - [Potatocss](http://potatocss.com/)
