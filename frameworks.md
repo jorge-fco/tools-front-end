@@ -5,13 +5,13 @@
 - [Bulma](https://bulma.io/)
 - [Foundation](https://foundation.zurb.com/)
 - [Stylus CSS](http://stylus-lang.com/)
-- [semantic UI](https://semantic-ui.com/)
-- [primer CSS](https://primer.github.io/)
+- [Semantic UI](https://semantic-ui.com/)
+- [Primer CSS](https://primer.github.io/)
 - [Compass style](http://compass-style.org/)
 
 ## Light
 - [Chota CSS](https://jenil.github.io/chota/)
-- [tachyons](https://tachyons.io/)
+- [Tachyons](https://tachyons.io/)
 - [BassCSS](http://basscss.com/)
 
 - [Kube CSS](https://imperavi.com/kube/)
@@ -23,4 +23,4 @@
 - [Susy](http://oddbird.net/susy/)
 
 ## Apps
-- http://topcoat.io/
+- [Topcoat CSS](http://topcoat.io/)
