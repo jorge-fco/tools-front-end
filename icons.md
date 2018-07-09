@@ -10,6 +10,11 @@
 
 📎 [Github](https://google.github.io/material-design-icons/)
 
+## Ionicons
+📚 [Website](https://ionicons.com/)
+
+📎 [Github](https://github.com/ionic-team/ionicons)
+
 ## Typicons
 📚 [Website](http://s-ings.com/typicons/)
 
