@@ -15,6 +15,11 @@
 
 📎 [Github](https://github.com/ionic-team/ionicons)
 
+## Octicons Github
+📚 [Website](https://octicons.github.com/)
+
+📎 [Github](https://github.com/primer/octicons/)
+
 ## Typicons
 📚 [Website](http://s-ings.com/typicons/)
 
