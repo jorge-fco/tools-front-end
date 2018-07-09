@@ -38,6 +38,10 @@
 ## Hawcons
 📚 [Website](http://hawcons.com/)
 
+## Simple icons
+📚 [Website](https://simpleicons.org/)
+
+📎 [Github](https://github.com/simple-icons/simple-icons)
 
 ## Zondicons
 📚 [Website](https://www.zondicons.com/)
