@@ -34,8 +34,10 @@ WebAssembly has huge implications for the web platform.
 * Responsive design, media queries, and breakpoints
 
 ## Library
-* jQuery
-* TweenMax
+* jQuery()
+* TweenMax()
+* [Animejs](http://animejs.com/) [](https://github.com/juliangarnier/anime)
+* [Modernizr](https://modernizr.com/)
 
 ## Tools
 * yarn
