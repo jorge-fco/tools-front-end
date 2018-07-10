@@ -36,8 +36,8 @@ WebAssembly has huge implications for the web platform.
 ## Library
 * jQuery()
 * TweenMax()
-* [Animejs](http://animejs.com/) [](https://github.com/juliangarnier/anime)
-* [Modernizr](https://modernizr.com/)
+* [Anime.js](http://animejs.com/) - [GitHib](https://github.com/juliangarnier/anime)
+* [Modernizr.js](https://modernizr.com/) - [GitHub](https://github.com/Modernizr/Modernizr)
 
 ## Tools
 * yarn
