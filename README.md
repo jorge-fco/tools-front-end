@@ -46,8 +46,10 @@ WebAssembly has huge implications for the web platform.
 
 ## Name Skills
 * Browser Developer Tools
+* Canvas
 * CSS Layout / Grids
 * CSS Animation
+* Charts / Graphs
 * DOM Manipulation (e.g., jQuery)
 * E-commerce Systems
 * HTML Semantics
@@ -58,6 +60,6 @@ WebAssembly has huge implications for the web platform.
 * Single Page Applications
 * Scalable Vector Graphics (SVG)
 * Object-Oriented Programming
-* User Experience
 * Usability
+* User Experience
 * Web Font Embedding
