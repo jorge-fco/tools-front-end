@@ -5,8 +5,8 @@
 * http://dynamicsjs.com/
 * http://velocityjs.org/
 * http://animejs.com/
-* Mo.js (http://mojs.io/)
+* 📎[Mo.js] (http://mojs.io/)
 * jQuery()
 * TweenMax()
-* [Anime.js](http://animejs.com/) - [GitHib](https://github.com/juliangarnier/anime)
-* [Modernizr.js](https://modernizr.com/) - [GitHub](https://github.com/Modernizr/Modernizr)
+* 📎[Anime.js](http://animejs.com/) - [GitHib](https://github.com/juliangarnier/anime)
+* 📎[Modernizr.js](https://modernizr.com/) - [GitHub](https://github.com/Modernizr/Modernizr)
