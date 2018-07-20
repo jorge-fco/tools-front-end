@@ -33,12 +33,6 @@ WebAssembly has huge implications for the web platform.
 * Flexbox
 * Responsive design, media queries, and breakpoints
 
-## Library
-* jQuery()
-* TweenMax()
-* [Anime.js](http://animejs.com/) - [GitHib](https://github.com/juliangarnier/anime)
-* [Modernizr.js](https://modernizr.com/) - [GitHub](https://github.com/Modernizr/Modernizr)
-
 ## Tools
 * yarn
 * Bower
