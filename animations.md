@@ -1,5 +1,5 @@
 * 📌 [Greensock](https://greensock.com/) — ver en [GitHub](https://github.com/juliangarnier/anime)
-* 📌 [Dynamics.js](http://dynamicsjs.com/) — ver en [GitHub](https://github.com/juliangarnier/anime)
+* 📌 [Dynamics.js](http://dynamicsjs.com/) — ver en [GitHub](https://github.com/michaelvillar/dynamics.js)
 * 📌 [Velocity.js](http://velocityjs.org/) — ver en [GitHub](https://github.com/juliangarnier/anime)
 * 📌 [Animate.js](http://animejs.com/) — ver en [GitHub](https://github.com/juliangarnier/anime)
 * 📌 [Mo.js](http://mojs.io/) — ver en [GitHub](https://github.com/juliangarnier/anime)
