@@ -29,3 +29,9 @@
 ### 📌Modernizr.js
 * [Modernizr.js](https://modernizr.com/)
 * [GitHub](https://github.com/modernizr/modernizr)
+
+
+* https://github.com/mrdoob/three.js/
+* https://github.com/popmotion/popmotion
+* http://maxwellito.github.io/vivus/
+* https://github.com/airbnb/lottie-web
