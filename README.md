@@ -4,11 +4,7 @@
 * **HTML** (Hyper Text Markup Language).
 * **CSS** (Cascading Style Sheets).
 * **Javascript** (JavaScript Object Notation).
-
-#### DOM
-Document Object Model.
-
-📌[Reference](https://dom.spec.whatwg.org/)
+* **DOM** (Document Object Model) 📌[Reference](https://dom.spec.whatwg.org/)
 
 
 #### Web APIs
