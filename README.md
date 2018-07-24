@@ -6,6 +6,10 @@
 * **Javascript** (JavaScript Object Notation).
 * **DOM** (Document Object Model) 📌[Reference](https://dom.spec.whatwg.org/)
 
+## pre-processors
+* PostCSS
+* CSSNext
+* CSS pre-processors 
 
 #### Web APIs
 TML5 and friends or Browser APIs.
