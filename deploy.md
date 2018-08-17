@@ -5,6 +5,8 @@
 
 ### Images
 - Crop images with code.
+- Reduce the size of the images.
+
 
 ### CSS
 - Minify CSS
