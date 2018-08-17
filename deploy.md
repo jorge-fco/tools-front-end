@@ -4,6 +4,7 @@
 - Favicon
 - Meta tags
 - Minify HTML
+- SEO
 
 ### Images
 - Crop images with code.
@@ -17,7 +18,7 @@
 - Minify JS
 
 ### Others
-- Version files ?v=
+- Version files `?v=number-version`
 
 ### References
 [Developers Google MinifyResources](https://developers.google.com/speed/docs/insights/MinifyResources)
