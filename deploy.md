@@ -1,6 +1,8 @@
 # Deploy
 
 ### HTML
+- Favicon
+- Meta tags
 - Minify HTML
 
 ### Images
