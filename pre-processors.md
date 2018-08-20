@@ -1,3 +1,6 @@
+## HTML
+- [HAML](http://haml.info/)
+
 ## CSS
 - SCSS
 - SASS
