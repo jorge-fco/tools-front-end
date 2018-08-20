@@ -12,12 +12,14 @@
 
 **Features**
 - Variables
+- Color Operations
 - Nesting
 - Mixins
 - Extends
 - Imports
--
--
+- If / Else
+- Math
+- Loops
 
 
 ## Programs
