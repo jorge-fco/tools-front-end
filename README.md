@@ -8,7 +8,7 @@
 
 ## Tools
 [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-
+[Developer Mozilla Tools](https://developer.mozilla.org/es/docs/Tools)
 
 #### Web APIs
 TML5 and friends or Browser APIs.
