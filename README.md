@@ -6,6 +6,10 @@
 * **Javascript** (JavaScript Object Notation).
 * **DOM** (Document Object Model) 📌[Reference](https://dom.spec.whatwg.org/) 
 
+## Tools
+[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+
+
 #### Web APIs
 TML5 and friends or Browser APIs.
 
