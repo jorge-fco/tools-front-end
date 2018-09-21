@@ -1,5 +1,8 @@
 ## HTML
 - [HAML](http://haml.info/)
+- [JADE LANGUAGE](http://jade-lang.com/)
+- [Blade](https://github.com/bminer/node-blade)
+- [PUG](https://pugjs.org/api/getting-started.html)
 
 ## CSS
 - SCSS
