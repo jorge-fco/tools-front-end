@@ -26,6 +26,6 @@
 
 
 ## Programs
-- [Prepos](https://prepros.io/)
-- [Codekitapp](https://codekitapp.com/)
-– [Koala](http://koala-app.com/)
+* [Prepos](https://prepros.io/)
+* [Codekitapp](https://codekitapp.com/)
+* [Koala](http://koala-app.com/)
